@@ -16,9 +16,9 @@ public class MainActivity extends AppCompatActivity {
         
     }
 
-    public void waseem (){
+    public void waseem2 (){
 
-        
+
     }
 
 }
